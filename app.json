@@ -8,7 +8,7 @@
   "env": {
     "API_URI": {
       "description": "URI of a running instance of Saleor GraphQL API",
-      "value": "https://api.eebax.com/graphql/"
+      "value": "http://beta.eebax.com:8443/graphql/"
     }
   },
   "buildpacks": [
